@@ -1,5 +1,5 @@
 site_name: Illini Karting
-site_url: blog.illinikart.racing
+site_url: https://blog.illinikart.racing
 theme:
     name: material
 plugins:
